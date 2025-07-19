@@ -1,0 +1,73 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Huzaifa Rabiu Audi Solar Installation</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin:0; padding:0; background: #f0f8ff; color: #333; }
+    header { background: #FFD700; padding: 20px; text-align: center; }
+    header h1 { margin: 0; color: #003366; }
+    nav { background: #87CEEB; padding: 10px; text-align: center; }
+    nav a { margin: 0 15px; color: white; text-decoration: none; font-weight: bold; }
+    section { padding: 20px; max-width: 800px; margin: auto; }
+    footer { background: #003366; color: white; text-align: center; padding: 10px; }
+    .contact-info { background: #DFF0D8; padding: 15px; border-radius: 8px; margin-top: 20px; }
+    .whatsapp { color: green; font-weight: bold; }
+  </style>
+</head>
+<body>
+
+<a href="#contact">Contact</a>
+</nav>
+
+<section id="services">
+  <h2>Our Services</h2>
+  <ul>
+    <li>Solar Panel & Inverter Installation</li>
+    <li>Battery Setup & Maintenance</li>
+    <li>Free Site Inspection & Quotation</li>
+    <li>Custom Solar Solutions for Homes & Businesses</li>
+  </ul>
+</section>
+
+<section id="about">
+  <h2>About Us</h2>
+  <p>
+    Based in Jimeta, Yola North, Adamawa State, Huzaifa Rabiu Audi provides
+    affordable, reliable solar installation services. Our mission is to bring
+    clean, steady power to your home or business with quality products and expert installation.
+  </p>
+</section>
+
+<section id="contact">
+  <h2>Contact Us</h2>
+  <div class="contact-info">
+    <p>📍 Jimeta, Yola North, Adamawa State</p>
+    <p>📞 Phone: 09163172163 | 08063392796 | 08126337222</p>
+    <p class="whatsapp">💬 WhatsApp: 09163172163</p>
+  </div>
+</section>
+
+<footer>
+  <p>© 2025 Huzaifa Rabiu Audi Solar Installation</p>
+</footer>
+
+</body>
+</html>
+```
+
+---
+
+You can save this as `index.html` and upload it to any basic web hosting.  
+
+If you want, I can guide you to free hosting platforms or help you customize the site more.  
+
+Would you like that?<header>
+  <h1>Huzaifa Rabiu Audi Solar Installation</h1>
+</header>
+
+<nav>
+  <a href="#services">Services</a>
+  <a href="#about">About</a>
